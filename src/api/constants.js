@@ -1,0 +1,5 @@
+export const HTTP_STATUS_CODES = {
+  OK: 200,
+  ACCEPTED: 304,
+  NOT_FOUND: 404,
+}

@@ -1,0 +1,1 @@
+export const URL_DEFAULT = 'http://localhost:4000';
