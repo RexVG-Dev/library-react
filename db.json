@@ -1,0 +1,147 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "wish-list": [],
+  "books": [
+    {
+      "id": "1",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Conscious Crafts: Quilting",
+        "subtitle": "20 Mindful Makes to Reconnect Head, Heart & Hands",
+        "authors": [
+          "Elli Beaven"
+        ],
+        "publisher": "Conscious Crafts",
+        "publishedDate": "2021-08-10",
+        "description": "Conscious Crafts: Quilting is a contemporary craft book containing 20 simple projects for gorgeous quilted pieces.",
+        "imageLink": "http://books.google.com/books/content?id=FEA6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      }
+    },
+    {
+      "id": "2",
+      "wishList": true,
+      "volumeInfo": {
+        "title": "First Steps to Free-motion Quilting",
+        "subtitle": "24 Projects for Fearless Stitching",
+        "authors": [
+          "Christina Cameli"
+        ],
+        "publisher": "C&T Publishing Inc",
+        "publishedDate": "2013",
+        "description": "A refreshingly new approach to free-motion stitching, First Steps to Free-Motion Quilting by Christina Cameli allows you to make something beautiful while improving your free-motion quilting skills. It features 24 simple projects and quilts that are light on assembly so you can spend most of your time stitching. You'll learn the basics, pick a project, and start stitching. A handy troubleshooting guide ensures success every step of the way.",
+        "imageLink": "http://books.google.com/books/content?id=1WqjSf8FwooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      }
+    },
+    {
+      "id": "3",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Heirloom Machine Quilting",
+        "subtitle": "Comprehensive Guide to Hand-Quilting Effects Using Your Sewing Machine",
+        "authors": [
+          "Harriet Hargrave"
+        ],
+        "publisher": "C&T Publishing Inc",
+        "publishedDate": "2004",
+        "description": "A brand-new edition of the machine quilting classic! Includes everything you need to know about machine quilting.",
+        "imageLink": "http://books.google.com/books/content?id=qrywBxaj4ScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      }
+    },
+    {
+      "id": "4",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Quilting For Dummies",
+        "authors": [
+          "Cheryl Fall"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-03-03",
+        "description": "Get the know-how you need to create beautiful quilts and decorative quilted items Quilting is a fun hobby -- but where do you begin? From selecting fabrics and designing a quilt to stitching by hand or machine, this friendly guide shows you how to put all the pieces together -- and create a wide variety of quilted keepsakes for your home. We'll have you in stitches in no time! Discover how to * Select the right fabrics and threads * Design your masterpiece * Use quilting software * Save time with rotary cutters and other cool tools * Quilt by hand or machine * Get creative with applique",
+        "imageLink": "http://books.google.com/books/content?id=5W-ChoTedM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      }
+    },
+    {
+      "id": "5",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Modern Quilting",
+        "subtitle": "A Contemporary Guide to Quilting by Hand",
+        "authors": [
+          "Julius Arthur"
+        ],
+        "publisher": "Hardie Grant Books",
+        "publishedDate": "2021-04",
+        "description": "A quilt is about home, daily life, where you've been and who you've known. It's about stories and history. A quilt is imbued with the power to rediscover memories, open up conversations and bring people together. For Julius Arthur of House of Quinn, this idea extends into our design ethos bringing together stories and narratives to create everyday items and objects. Modern Quilting highlights how traditional quilting and sewing techniques can be utilized to create contemporary items and objects for the home. Showcasing 20 stunning projects, Julius shows you the beauty of renewing textiles and materials by giving them a new life. Contemporary quilting honors the traditional processes but allows you to create the rules of what you want to create. With a more creative and free approach to working with textiles, quilts and making, Julius guides the reader through four skill based workshops, and techniques, such as stitching, quilting, collage and mark making, before opening up into a range of modern quilt-based projects that can be created from combining these fundamental skills. With stunning photography and step-by-step illustrations throughout, fall in love with this age-old craft and discover how to create meaningful items for your own living spaces, places and daily rituals.",
+        "imageLink": "http://books.google.com/books/content?id=aw27zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      }
+    },
+    {
+      "id": "6",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Beginner's Guide to Quilting",
+        "subtitle": "16 Projects to Learn to Quilt",
+        "authors": [
+          "Elizabeth Betts"
+        ],
+        "publisher": "David & Charles",
+        "publishedDate": "2013-06-07",
+        "description": "Learn how to make beautiful quilts with this comprehensive guide to patchwork and quilting for beginners. Covers all aspects of quilting from piecing and applique to quilting and binding. Choose from 16 simple projects, each focusing on a different technique, from bags and cushions to table mats, wall hangings and bed quilts.Clear illustrations and step-by-step instructions accompany each project, making them all suitable for even a complete novice. The book also includes a quilting glossary explaining common quilting and sewing terms.",
+        "imageLink": "http://books.google.com/books/content?id=hU8uuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      }
+    },
+    {
+      "id": "7",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Quilting",
+        "subtitle": "Over Fifty Attractive Designs for You to Piece, Appliqué, Embroider, and Stuff",
+        "authors": [
+          "Betty Alfers"
+        ],
+        "publisher": "Bobbs-Merrill Company",
+        "publishedDate": "1978",
+        "description": "Alfer's original and easy-to-do quilting designs, with complete instructions and dozens of patterns and how-to drawings for making accessories, home decorations, and clothing. Beautiful finished pieces are shown in eight pages of full color.",
+        "imageLink": "http://books.google.com/books/content?id=CU7g76-4efgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      }
+    },
+    {
+      "id": "8",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Quilting with Style",
+        "subtitle": "Principles for Great Pattern Design",
+        "authors": [
+          "Gwen Marston",
+          "Joe Cunningham"
+        ],
+        "publisher": "Amer Quilters Society",
+        "publishedDate": "1993",
+        "description": "Suggests quilting patterns based on straight lines, circles, fans, cables, and feathers, and offers advice on making templates and marking patterns",
+        "imageLink": "http://books.google.com/books/content?id=tD9UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      }
+    },
+    {
+      "id": "9",
+      "wishList": false,
+      "volumeInfo": {
+        "title": "Quilting Patterns",
+        "subtitle": "110 Ready-to-Use Machine Quilting Designs",
+        "authors": [
+          "Linda Macho"
+        ],
+        "publisher": "Courier Dover Publications",
+        "publishedDate": "2019-12-18",
+        "description": "Feathers, pinwheels, flowers, birds, and other eye-catching designs abound in this treasury of more than 100 quilting patterns. Clear, complete directions and numerous diagrams guide even beginners through every step.",
+        "imageLink": "http://books.google.com/books/content?id=TZqxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      }
+    }
+  ]
+}

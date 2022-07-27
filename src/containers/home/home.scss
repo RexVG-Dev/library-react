@@ -1,0 +1,12 @@
+.home-container {
+  margin-bottom: 60px;
+
+  &__title {
+    margin-top: 20px;
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

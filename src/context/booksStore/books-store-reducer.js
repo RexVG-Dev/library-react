@@ -1,6 +1,6 @@
 import {
   GET_BOOKS_LIST,
-  UPDATE_BOOKS_LIST,
+  CLEAR_BOOKS_LIST,
 } from '../../types';
 
 export default(state, action) => {
@@ -8,11 +8,14 @@ export default(state, action) => {
     case GET_BOOKS_LIST:
       return {
         ...state,
-        books: action.payload
+        booksList: action.payload,
       }
-      break;
-  
+    case CLEAR_BOOKS_LIST:
+      return {
+        ...state,
+        booksList: action.payload,
+      }
     default:
-      break;
+      return state
   }
 }
